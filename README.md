@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Orlandroid
-- 👀 I’m interested in ... Android and web developer
-- 🌱 I’m currently learning ... javascript
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Android Developer
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on Android projects
 
 <!---
 Orlandroid/Orlandroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
