@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orlandroid&" alt="orlandroid" /></p>
 
 
-## Proyectos *bombitas*
+## Projects I have carried out
 <table>
 <tr>
 <td width="50%">
