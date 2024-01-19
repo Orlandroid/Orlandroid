@@ -66,42 +66,5 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">NarutoDb</h3>
-<div align="center">
-<a href="https://github.com/Orlandroid/NarutoDb" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/narutoDb/Home.png" width="300" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/Orlandroid/NarutoDb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/watch?v=NiYT53pavk4" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>An Android app of Naruto that showcases characters, Clans, Villages , Kekkeigenkai, Tailed Beasts, Teams, Akatsuki and Kara. This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding, Paging3, kotlin-serialization.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Skeduly</h3>
-<div align="center">
-<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/salondebelleza/login.png" width="300" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://www.youtube.com/watch?v=NiYT53pavk4" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>The app's core focus is efficient appointment management for beauty establishments like barbershops and salons. It provides users with enhanced services, offering detailed information about the establishment (services, location, branches, staff) and a concise e-commerce section for purchasing available products.This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding.</p>
-</div>
-                                                                                      
-</td>  
-</table>        
+<br>       
 
