@@ -27,3 +27,81 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orlandroid&" alt="orlandroid" /></p>
 
+
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Rick and Morty App</h3>
+<div align="center">
+<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/rick/caracteres.jpg" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=hlZCwz0A5Wc" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>An Android app for Rick and Morty that showcases characters, episodes, and locations. This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding, Paging3.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">StarWarsApp</h3>
+<div align="center">                                       
+<a href="https://github.com/Orlandroid/StarWarsApp" target="_blank"><img src="https://raw.githubusercontent.com/Orlandroid/Resources_Repos/main/startwarsp/menu.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/Orlandroid/StarWarsApp" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=39lzRVNwRY0&t=1s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>An Android app of StartWars that showcases characters, Films, Plantes , Species, StarShips and Vehicles. This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding, Paging3.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">NarutoDb</h3>
+<div align="center">
+<a href="https://github.com/Orlandroid/NarutoDb" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/narutoDb/Home.png" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/Orlandroid/NarutoDb" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=NiYT53pavk4" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>An Android app of Naruto that showcases characters, Clans, Villages , Kekkeigenkai, Tailed Beasts, Teams, Akatsuki and Kara. This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding, Paging3, kotlin-serialization.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Skeduly</h3>
+<div align="center">
+<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/salondebelleza/login.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=NiYT53pavk4" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>The app's core focus is efficient appointment management for beauty establishments like barbershops and salons. It provides users with enhanced services, offering detailed information about the establishment (services, location, branches, staff) and a concise e-commerce section for purchasing available products.This project was developed using the following technologies: Clean Architecture, MVVM, Kotlin DSL, RESTful APIs, Android Jetpack, Retrofit/Retrofit2, ViewBinding, DataBinding.</p>
+</div>
+                                                                                      
+</td>  
+</table>        
+
