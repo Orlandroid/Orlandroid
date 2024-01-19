@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Rick and Morty App</h3>
 <div align="center">
-<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/rick/caracteres.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/rick/caracteres.jpg" width="300" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -52,7 +52,7 @@
                <br>
 <h3 align="center">StarWarsApp</h3>
 <div align="center">                                       
-<a href="https://github.com/Orlandroid/StarWarsApp" target="_blank"><img src="https://raw.githubusercontent.com/Orlandroid/Resources_Repos/main/startwarsp/menu.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Orlandroid/StarWarsApp" target="_blank"><img src="https://raw.githubusercontent.com/Orlandroid/Resources_Repos/main/startwarsp/menu.jpg" width="300" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/Orlandroid/StarWarsApp" target="_blank">
@@ -73,7 +73,7 @@
 <td width="50%">
 <h3 align="center">NarutoDb</h3>
 <div align="center">
-<a href="https://github.com/Orlandroid/NarutoDb" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/narutoDb/Home.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Orlandroid/NarutoDb" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/narutoDb/Home.png" width="300" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/Orlandroid/NarutoDb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -90,7 +90,7 @@
 <td width="50%">
 <h3 align="center">Skeduly</h3>
 <div align="center">
-<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/salondebelleza/login.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/salondebelleza/login.png" width="300" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/Orlandroid/SalonDeBelleza" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
