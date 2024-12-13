@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Rick and Morty App</h3>
 <div align="center">
-<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/rick/caracteres.jpg" width="300" alt="Curso básico android"></a>
+<a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank"><img src="https://github.com/Orlandroid/Resources_Repos/blob/main/rick/caracteres.png" width="300" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Orlandroid/RickAndMortyAndroidApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
